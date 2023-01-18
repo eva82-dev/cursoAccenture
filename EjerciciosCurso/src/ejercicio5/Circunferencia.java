@@ -1,13 +1,16 @@
 package ejercicio5;
 
 public class Circunferencia {
+	
+	static final double PI= Math.PI;
+	static final int RADIO= 23;
 
 	public static void main(String[] args) {
 		
-		final double PI= Math.PI;
-		int radio= 23;
-		double longitud= 2*PI*radio;
-		double area= PI*(radio*radio);
+		
+		
+		double longitud= 2*PI*RADIO;
+		double area= PI*(RADIO*RADIO);
 		
 		
 		System.out.println(longitud);
