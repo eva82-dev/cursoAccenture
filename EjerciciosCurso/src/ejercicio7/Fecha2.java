@@ -16,13 +16,13 @@ public class Fecha2 {
 		case 4: case 6: case 9: case 11:
 			diames= 30;
 			break;
-		
+		}
 		if (diames<=mes)
 			System.out.println("fecha correcta");
 		else 
 		System.out.println("fecha incorrecta");
 	
 					}
-		}
-		}
+		}}
+		
 			

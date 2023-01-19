@@ -1,9 +1,13 @@
 package ejercicio9;
 
 public class Multiplo5 {
-	/*
+	
+	/**
 	 * Calcular la suma de los primeros 10 números múltiplos de 5
+	 * @author eva.del.olmo.garcia
+	 *
 	 */
+	
 	public static void main(String[] args) {
 		
 		int num=5;
@@ -18,8 +22,6 @@ public class Multiplo5 {
 				System.out.println(indice);
 				}
 			System.out.println(total);
-			}
-		
-
+		}
 	}
 }

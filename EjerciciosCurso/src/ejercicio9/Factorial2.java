@@ -1,9 +1,11 @@
 package ejercicio9;
 
-/*
- * 
- *	 Calcular el factorial del numero 8. Otra forma
- */
+	/**
+	 * 
+	 *	Calcular el factorial del numero 8. Otra forma.
+	 * @author eva.del.olmo.garcia
+	 *
+	 */
 
 public class Factorial2 {
 
