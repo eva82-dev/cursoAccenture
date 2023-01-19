@@ -30,7 +30,10 @@ public class Datos3 {
 		arrayUno [1][5]=13;
 		arrayUno [1][6]=14;
 		
-		
+	
+
+
+}
 		
 		
 		

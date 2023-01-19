@@ -19,11 +19,10 @@ public class Fecha2 {
 		
 		if (diames<=mes)
 			System.out.println("fecha correcta");
-	else 
+		else 
 		System.out.println("fecha incorrecta");
 	
-		}}
-					
-}
-			
+					}
+		}
+		}
 			

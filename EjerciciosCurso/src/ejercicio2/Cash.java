@@ -1,6 +1,10 @@
 package ejercicio2;
 
-public class cash {
+public class Cash {
+	/**
+	 * Cash
+	 * @param args
+	 */
 	
 	
 	

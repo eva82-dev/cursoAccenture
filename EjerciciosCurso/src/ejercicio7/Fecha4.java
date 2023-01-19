@@ -14,10 +14,11 @@ public class Fecha4 {
 					
 				}
 					if(ano!= 0) {
-						if (((mes%4==0&& ano%100!=0)) | ano%400==0) diaMes[1]=29;
+						
+						if (((mes%4==0&& ano%100!=0)) | (ano%400==0) arrayMes[1]=29)));
 					
 						if (dia<0 && dia<=arrayMes[mes-1])
-							if ((mes%4)=0)&&(!(mes%100)=0){
+						
 					System.out.println("la fecha es correcta");
 					else 
 					System.out.println("el dia es incorrecto");
@@ -27,9 +28,7 @@ public class Fecha4 {
 					System.out.println("el año es incorrecta, prueba otra vez");
 					
 					
-					}
 					
-				
 		}
 
 	}

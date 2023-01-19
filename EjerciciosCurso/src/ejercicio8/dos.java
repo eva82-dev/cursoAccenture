@@ -6,9 +6,6 @@ public class dos {
 	String []parte1= {" ", "uno","dos","tres","cuatro","cinco","seis","siete","ocho", "nueve", "diez", "once", "doce", "trece","catorce","quince"};
 	
 	String []parte2= {" ", "diez", "veinte", "treinta", "cuarenta", "cincuenta", "sesenta", "ochenta", "noventa"};
-	
-	
-
 	int unidades;
 	int decenas;
 	String mensaje ="";
