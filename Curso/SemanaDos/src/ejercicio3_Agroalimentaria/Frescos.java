@@ -1,8 +1,8 @@
 package ejercicio3_Agroalimentaria;
 
 public class Frescos extends Productos{
-	private String fechaEnvasado= "12/02/2023";
-	private String PaisOrigen= "España";
+	private String fechaEnvasado= "12/02/2023";                                         //¿porque se cargan las variables?
+	private String PaisOrigen= "España";  <------------variables empiezan con minusculas//
 	
 	
 	public Frescos(String fechaEnvasado, String PaisOrigen, String fechaCaducidad, String numLote ){ 
@@ -29,7 +29,7 @@ public class Frescos extends Productos{
 		PaisOrigen = paisOrigen;
 	}
 	@Override
-	public String toString() {
+	public String toString() {		<--------Solo deberia imprimir sus datos.....
 		return "Frescos = "+ "\nfecha de Caducidad=" + fechaCaducidad +"\tnum de Lote= "+ numLote+ " \tfecha de Envasado= " + fechaEnvasado + "\tPais de Origen=" + PaisOrigen;
 	}
 	
