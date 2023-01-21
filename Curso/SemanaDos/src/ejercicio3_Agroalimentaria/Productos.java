@@ -11,7 +11,7 @@ public class Productos {
 		public Productos(String fechaCaducidad, String numLote){ 
 			super();
 			this.setFechaCaducidad(fechaCaducidad);
-			this.setNumLote(getNumLote());
+			this.setNumLote(getNumLote());  <-------------------- this.setNumLote(numLote)
 			
 		}
 
