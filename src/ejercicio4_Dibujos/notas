@@ -1,0 +1,2 @@
+calculararea y dibujar son abstract en el padre, ya que el, no sabe como calcular el area ni dibujar
+los campos que utilizaremos son de padre que ya los tiene definidos
