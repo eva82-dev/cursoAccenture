@@ -1,0 +1,7 @@
+org.sonarlint*.
+/.metadata/
+.metadata
+.settings
+*.classpath
+*.class
+/bin/
